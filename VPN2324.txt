@@ -1,10 +1,11 @@
 {
-"Version":"2",
-"Url":"LINKFILE",
+"Version":"23",
+"Url":"https://github.com/MrRKeo/VPN2323/blob/main/VPN2023.zip",
 "Changelog":"
 
 Hello would!!!?
-
+TH🇹🇭
+KK🇰🇭
 ",
  "releaseNotes": [
  "-Demo"
