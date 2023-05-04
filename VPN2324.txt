@@ -1,6 +1,6 @@
 {
 "Version":"23",
-"Url":"https://github.com/MrRKeo/VPN2323/blob/main/VPN2023.zip",
+"Url":"https://raw.githubusercontent.com/MrRKeo/VPN2323/main/VPN2023.zip",
 "Changelog":"
 
 Hello would!!!?
