@@ -2,106 +2,6 @@
 
    "files": [    
 
-{
-
-         "name": "FREE",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/FREE.ovpn"
-
-      },
-
-            
-
-
-      },
-
-{
-
-
-
-         "name": "TH-DTAC-GAME-VIP-12",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-DTAC-GAME-VIP-12.ovpn"
-
-      },
-
-{
-
-         "name": "TH-DTAC-GAME-VIP-13",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-DTAC-GAME-VIP-13.ovpn"
-
-      },
-
-{
-
-         "name": "TH-DTAC-GAME-VIP-14",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-DTAC-GAME-VIP-14.ovpn"
-
-      },
-
-{
-
-         "name": "TH-DTAC-GAME-VIP-15",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-DTAC-GAME-VIP-15.ovpn"
-
-      },
-
-      
-
-{
-
-         "name": "TH-TRUE-GAME-VIP-01",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-TRUE-GAME-VIP-01.ovpn"
-
-      },
-
-      
-
-{
-
-         "name": "TH-TRUE-GAME-VIP-02",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-TRUE-GAME-VIP-02.ovpn"
-
-      },
-
-{
-
-         "name": "TH-TRUE-GAME-VIP-03",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-TRUE-GAME-VIP-03.ovpn"
-
-      },
-
-{
-
-         "name": "TH-TRUE-GAME-VIP-04",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-TRUE-GAME-VIP-04.ovpn"
-
-      },
-
-{
-
-         "name": "TH-TRUE-GAME-VIP-05",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-TRUE-GAME-VIP-05.ovpn"
-
-      },
-
-{
-
-         "name": "TH-TRUE-GAME-VIP-06",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-TRUE-GAME-VIP-06.ovpn"
-
-      },
-
-{
 
          "name": "TH-TRUE-GAME-VIP-07",
 
@@ -193,6 +93,6 @@
 
 "title":"📢 ឯកសារថ្មីនឹងត្រូវបានអាប់ដេត📢",
 
-   "version":90
+   "version":100
 
 }
