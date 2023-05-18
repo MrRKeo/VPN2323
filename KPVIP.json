@@ -12,143 +12,12 @@
 
             
 
-{
-
-         "name": "SG-DTAC-VIP-01",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/SG-DTAC-VIP-01.ovpn"
 
       },
 
 {
 
-         "name": "SG-DTAC-VIP-02",
 
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/SG-DTAC-VIP-02.ovpn"
-
-      },
-
-{
-
-         "name": "SG-DTAC-VIP-03",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/SG-DTAC-VIP-03.ovpn"
-
-      },
-
-{
-
-         "name": "SG-TRUE-VIP-01",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/SG-TRUE-VIP-01.ovpn"
-
-      },
-
-{
-
-         "name": "SG-TRUE-VIP-02",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/SG-TRUE-VIP-02.ovpn"
-
-      },
-
-{
-
-         "name": "SG-TRUE-VPS-03",
-
-         "url": "https://raw.githubusercontent.com/MrRKeo/VPN2323/main/TH-VIP-4DAYS-VPS.ovpn"
-
-      },
-
-{
-
-         "name": "TH-DTAC-GAME-VIP-01",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-DTAC-GAME-VIP-01.ovpn"
-
-      },
-
-{
-
-         "name": "TH-DTAC-GAME-VIP-02",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-DTAC-GAME-VIP-02.ovpn"
-
-      },
-
-{
-
-         "name": "TH-DTAC-GAME-VIP-03",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-DTAC-GAME-VIP-03.ovpn"
-
-      },
-
-{
-
-         "name": "TH-DTAC-GAME-VIP-04",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-DTAC-GAME-VIP-04.ovpn"
-
-      },
-
-{
-
-         "name": "TH-DTAC-GAME-VIP-05",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-DTAC-GAME-VIP-05.ovpn"
-
-      },
-
-{
-
-         "name": "TH-DTAC-GAME-VIP-06",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-DTAC-GAME-VIP-06.ovpn"
-
-      },
-
-{
-
-         "name": "TH-DTAC-GAME-VIP-07",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-DTAC-GAME-VIP-07.ovpn"
-
-      },
-
-{
-
-         "name": "TH-DTAC-GAME-VIP-08",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-DTAC-GAME-VIP-08.ovpn"
-
-      },
-
-{
-
-         "name": "TH-DTAC-GAME-VIP-09",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-DTAC-GAME-VIP-09.ovpn"
-
-      },
-
-{
-
-         "name": "TH-DTAC-GAME-VIP-10",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-DTAC-GAME-VIP-10.ovpn"
-
-      },
-
-{
-
-         "name": "TH-DTAC-GAME-VIP-11",
-
-         "url": "https://raw.githubusercontent.com/Kophyofreenet/mmtpro/main/TH-DTAC-GAME-VIP-11.ovpn"
-
-      },
-
-{
 
          "name": "TH-DTAC-GAME-VIP-12",
 
@@ -324,6 +193,6 @@
 
 "title":"📢 ឯកសារថ្មីនឹងត្រូវបានអាប់ដេត📢",
 
-   "version":80
+   "version":90
 
 }
