@@ -1,0 +1,87 @@
+{
+"Reward": "ca-app-pub-8278924142679566/3633327904",
+"Inter": "ca-app-pub-8278924142679566/4946409574",
+"version": 55,
+"message": "សួស្តី",
+
+"files": [
+
+{
+        //true-1
+      "config": "vless://5279dd80-2856-469c-9a91-e811b30b7a8b@104.23.125.189:80?path=%2Fvless&security=none&encryption=none&host=th4.v2ray.cab&type=ws#mkovps"
+      
+ }, 
+{
+        //true-2
+      "config": "vless://5279dd80-2856-469c-9a91-e811b30b7a8b@104.23.125.189:80?path=%2Fvless&security=none&encryption=none&host=th4.v2ray.cab&type=ws#mkovps"
+      
+ }, 
+{
+        //true-3
+      "config": "vless://5279dd80-2856-469c-9a91-e811b30b7a8b@104.23.125.189:80?path=%2Fvless&security=none&encryption=none&host=th4.v2ray.cab&type=ws#mkovps"
+      
+ }, 
+{
+        //true-4
+      "config": "vless://5279dd80-2856-469c-9a91-e811b30b7a8b@104.23.125.189:80?path=%2Fvless&security=none&encryption=none&host=th4.v2ray.cab&type=ws#mkovps"
+      
+ }, 
+{
+        //true-5
+      "config": "vless://5279dd80-2856-469c-9a91-e811b30b7a8b@104.23.125.189:80?path=%2Fvless&security=none&encryption=none&host=th4.v2ray.cab&type=ws#mkovps"
+      
+ }, 
+{
+        //ais-1
+      "config": "YHJ9R7jI0slKjsIJmL8ha6Xe59UhMJM0KqJpxTrxw/xKjtAPd8oNPgIL6IPKQ+CHE4tb1+V1KNuB/yySjU3gpWGpJn5DFe+BeaZ12zq957CtvV99yuKHMpCjoOgvI2Ca7ZSQIO4YV7Jq+KbAj46U71OMGPSf3e1mDFRwbCzKRvkOn1Wgp9bu9VBU5ifcxO10Fgr2/drPy2F7YeXoZxFxN9FzFwhJVC5kQ3b8U6CBqLTev1kz0//aD4A50TBfHCVYIhKoi/kXyw9lqw93DLEJ5uOMYjc4rQG8cMhx4ZB+B9lRHD3aSw5HVWvkFpeutnqVCYw11SBFDfgpkco8HRCSK1O8u4vD3PLxRfLoW48FSgFMGasYeclezGxAoZrPfFADIJTURjyCKKlG+9W2NzPRpFGkedsgGhAriJTQTA6qAmgKLsVE"
+      
+ },
+{
+        //ais-2
+      "config": "J6du2NE1ZMfFCwfAiciBS9RzqZ3+CkinFxCo2Lwnho/MLigueOFYdAdmTwKCNJeTiPij2Mrb31VAs2RgCEnFmMCURMWSXS49hG/9nDe1zujCUMBGqzi2itYe9dAFZK5ED5a6pCBv0PNlITKFcPwj5i+vKGQr+g1HhYDw58hcykKDB708JSEcAZEehISiLJp9Rj9w+N8D5s3zz0uITxqIJFQu5SYnGu6FT9FEjQii2UH8H37KP1u/W3rqkk/A8II8o37zdrFcUYP1ko7bl39PSZNfRXKY1FMuoGare9PXitOeTNVP8Ex2jVy8dVAEcLxCnZnspLKNlu4+n+AsYrv9yq7uyCspC5zlfTGi4OlKkeBj3J91CYE4BSlrLAmzM8STMWQqpDDVPp0Be5esdma5eHl9tH+mjMRvs5RE2oLEVM3B1xdz"
+      
+ },
+{
+        //ais-3
+      "config": "S8Ipzjjv8pJsffPVc3+kUwdWfEswTE9dz4N7VI7qNostZ/J1ojpvpQs850SPO5+bfw4ikS8kYhWMVSR9GZEaJMvVK2zMB7PPIskp3msCKlGBmB147n9q6rzaaRXgvvE6eM3lgtjIQ56gPs+TkOzfbDO6ygdiQdRiCzY/yuHaf7/UJoP4M9T1Oqi4wZUXqC3QjxAFCIAnP9ZGAQQrKOBSaGolKN8ugmyXxEl7lS+Q6e9cXPug0yHGTlL282yNz+QEQAEama0WSHiJ+MGtMYN3oay8KbDPnCGeSg2E2Om8QcsYVNYhNS9zaagUJlx4beKEs3UpzMaYMPU6UXDQYiJ8UnEU6BFNKyXI62wloS5bpvlgoAa6iWEACjL30eaYm0JnN/J+n9vpqZ0pEIZ3V2izzzyDoY9V3ZS+mw0YMjEky0AcTvVvIqWYKg=="
+      
+ },
+{
+        //ais-4
+      "config": "j2IQC3cXHQbuRMtbbOSo/O+H1KayEuShwwjQ4EPEuNxscFY/tkV5bBA2CZS6AZYH44x1fgRUEd8jMNvSjmzhXxL5UVh1U7fRLyfLhkMr6a1YrKgOzb0yeOLYKkpGzF4g1N66nQeiIY5eY+ZzdOnuyotHpOCwlMtR+f22rU3XAczaHrCj9ZMGG0UfSLMw54Aw5TD9pEtUmEXVDzO01MB6EQhH9B7JgDkXWYWh7pg0vV2ZSGRKs8bCMST6qN8j5mboDHt/0QHyjhgqsX4ZykteQG8VyY62dnL2U+Ep/fajX0C9suFHrRqcOztLBuuuG713xu4xIQYND8K+esZBgp8RcD9ZE2SMFc6DZnJtn9bpvRU2HOTQYR48KjIehBGpUySN5Ds4Majwf2pPYnPPcwSBALIsWatHXl6XGF5NfDVCRoTUvvxnv0rfjg=="
+      
+ },
+{
+        //ais-5
+      "config": "oIic5KmS89D9K0BUalEuo5cd56+dcPf563RrxwXIOFrW+kM7ks58cCJsvopgHOaHxkK1SI7iyk5UOdqy8AGLtV4k7I74UPlr6aYWjursuGtHDuD3s7VDzDBN5fdWQt7ix5DUSkoyNP7+oRRzS5AyyIKCyC4te+1sznUFXMzaSn+1kGZPiy/1ZeXqz1S7M4+thpMiyEYcWpiXIIAJjLBvzm65VEz2OcQF0lZ+6zbpIQ6jT7EoajwKxQQoVnHbYUG0YdjuwNtIGj+HjBSJOaCAdEZ91JKzmJzVcVH3kcm8LTCjzXzqIb0jneVs0K2JWJgfJWI24h+cKxqvn5oI/opSRo8fP8oceHcrV9K+/Rf3l6wJQQeB89fbpgn3iw5wuHpVLgOPQQ0NFoK9MmC6r5Zu/feW3TkQS1PT4yktUJN8nCeGf3sE0truhw=="
+      
+ },
+{
+        //sg-1
+      "config": "zMXpMHCneW3TXCcoPTs2+8ZRAbqEWkZhiMy9C1Ofz9c9U5NhAiM8glbsD+hSUXKwIWhhSVeKzxTbWMUEnrKzhACaTxH7l2enMc8UVs6h3J54OtX18oMe97aQRut2VDzih3QfTe0uqbgs/YvTFt5vgzxVNigZbYWHqQVisxjMEmmo9dA06zuU0AGAd8QTv32IyHF6dF7du8kUewH7RuzrZ+e/45ykBHXUyx5lLGxN+Gx2oriWdGR617Vmzd2iT/qHS0T5+hJ7skeWIuKDRk2zXMstOc1VO37p+aNUQpl5ZPUIYmaD"
+      
+ },
+{
+        //sg-2
+      "config": "Es5Old/Tm5OaDyFVScUL5yLU0e5Ly2Zvk8b6rJ4feJmO2PUogOPGPHXE19v6dfCYtCsaUV+ZpNhtTA2E7YU2GZqO6TPX4sq4O9TgqutRkJOxq3K6qakmUAlbV/W/Cc4WcCGpw9PVq5QzmZwUS/EWMZzuik99wPseLKyCaXrJj5ZhOhCoWPqcd74deZYVowPbkgOAoey8K9SUi8uq40KRpnRtChYtl3e4CgPTREl8qR3tA8TiDMMLDa8+r2Wq7/UXpGIBtr40s9toynhQqmDDgG3WWscyoL+0OyaWEGwYW86JwA6ydgCw/PuFKtTu/pBjT//rxfYTZfn2R/JBvop+y5dew8vQPTjGTzFtUxm2Gx5RcqGFV+ozCw=="
+      
+ },
+{
+        //sg-3
+      "config": "p7zUTL8ZXEmtEhEz5NeuFfnpyq1FPtaLUhejeTPjYQI/j1iPebOIbgWETK1VG+WcI0kNi+oPcaLIizKZ/Tq/0QnaP0N/Du7ZhXyPmUWOzXwnRTsutgkzdR5uMhfx1m+pof/aTgWtf7fzetCgZBEtASketnoe6Uzp6wfrwaVGo0OHFiGei25qEuNkcLOBPCcVexq4cRNzE6gV4lPntMDS6QgvSEWx41zX47xvmVObWBcmJzDbXGC8mLFpAHBn8I6eaKwmra9eL3esvdPd47612mkPAa5Cd9JPQNeeRRyzQ/276yeMHCR5IXCmjwtiZPbt/TFd0vsEnROjqeIgyPvTgSkhBcSgvPLxHkVEv75bHuFPbRQz9aMXaQ=="
+      
+ }
+
+   ],
+
+
+
+"dtac": "បងនេងអូន",
+
+"true": "True ဆင်းမ်အတွက် \nစမက်မလို ဘေလ်သုညနဲ့ချိတ်ဆက်ပါ",
+
+"ais": "Ais  ဆင်းမ်အတွက် အသုံးပြုနည်း \nAisဆင်းမ်ဆိုရင်...ပက်ကေ့ချ် ၂မျိုးဝယ်ပြီးမှချိတ်ဆက်ရမည်𝗔𝗶𝘀 𝗣𝗹𝗮𝘆𝗣𝗿𝗼 တစ်လစာပက်ကေ့ချ် ဝယ်ယူရန်*777*885# 📞 ၅၉ဘတ်*777*7067# 📞 30ဘတ်"
+
+
+
+}
